@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/parveembhadoo/torrent-streamer/server"
+	"github.com/jpillora/cloud-torrent/server"
 	"github.com/jpillora/opts"
 )
 
